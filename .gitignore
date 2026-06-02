@@ -1,0 +1,13 @@
+.env
+chroma_db/
+chroma_db.bak-*/
+__pycache__/
+*.pyc
+.venv/
+uv.lock
+mlflow/
+mlflow.db
+mlruns/
+.DS_Store
+logs/
+.claude/

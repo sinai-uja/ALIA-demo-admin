@@ -1,0 +1,14 @@
+LangGraph es un framework de LangChain para construir agentes y flujos de trabajo
+con modelos de lenguaje usando grafos dirigidos. Permite definir estados, nodos y
+transiciones para crear aplicaciones complejas de IA.
+
+LangGraph soporta múltiples patrones de diseño como chatbots, agentes ReAct,
+agentes multi-step con reflexión, y flujos de trabajo con herramientas externas.
+
+El protocolo MCP (Model Context Protocol) permite a los agentes de IA conectarse
+a herramientas y fuentes de datos externas de forma estandarizada. Un MCP Proxy
+actúa como intermediario centralizando las conexiones a múltiples servidores MCP.
+
+ChromaDB es una base de datos vectorial de código abierto optimizada para
+aplicaciones de IA. Permite almacenar embeddings y realizar búsquedas por
+similitud semántica de forma eficiente.
